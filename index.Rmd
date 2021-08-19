@@ -1,0 +1,43 @@
+---
+title: "Bradford M Dykes"
+image: "bradford.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/bradford-dykes"
+  - label: Twitter
+    url: "https://twitter.com/BradfordDykes"
+  - label: GitHub
+    url: "https://github.com/dykesb"
+  - label: Email
+    url: "mailto:dykesb@gvsu.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Bradford is interested in working with educators to integrate data and statistical thinking into their courses.
+Their current collaboration focuses on using data visualizations in K-12 history and social studies lessons to build students' data literacy.
+They love coffee, Great Danes, and board games.
+
+## Education
+
+**Western Michigan University** | Kalamazoo, MI
+
+Ph.D. in Statistics | August 2011 - June 2016
+
+M.S. in Statistics | August 2009 - May 2011
+
+**Grand Valley State University** | Allendale, MI
+
+B.S. in Statistics | August 2004 - April 2009
+
+## Experience
+
+**Grand Valley State University** | Assistant Professor | August 2018 - Present
+
+**Grand Valley State University** | Visiting Faculty | August 2017 - July 2018
+
+**Husson University** | Assistant Professor | August 2016 - July 2017
+
+**Western Michigan University** | Faculty Specialist | August 2014 - July 2016
